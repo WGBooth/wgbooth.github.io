@@ -1,4 +1,40 @@
-/* Background Color */
+/* Base Styles */
 body {
-    background-color: #b1bf45;
+    background-color: #ffe7b3;
+}
+
+/* phone */
+@media only screen and (max-width: 600px) {
+    nav {
+        flex-direction: column;
+    }
+    nav li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
+
+/* tablet */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    nav {
+        flex-direction: row;
+    }
+    nav li {
+        display: inline-block;
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
+}
+
+/* desktop */
+@media only screen and (min-width: 1025px) {
+    nav {
+        flex-direction: row;
+    }
+    nav li {
+        display: inline-block;
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
 }
