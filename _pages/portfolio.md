@@ -3,8 +3,7 @@ permalink: /portfolio/
 title: "Portfolio"
 ---
 
-Check out some of my projects I've worked on!
+Check out some of my projects I've worked on! Links to in-depth write-ups coming soon!
 
-- [Network Packet Analyzer](/portfolio/packet-analyzer/)
-- [Storing Parsed Character Names from Screenplays](/portfolio/radix_trie/)
-- [Project 3](/portfolio/project-3/)
+- Storing Parsed Character Names from Screenplays
+- HereItIs - A Concert Management Site (Group Project)

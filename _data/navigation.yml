@@ -7,8 +7,6 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Education"
-    url: /education/
   - title: "Résumé"
     url: /resume/
   - title: "About"

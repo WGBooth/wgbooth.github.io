@@ -5,15 +5,14 @@ title: "Résumé"
 
 <!-- Add a download link for the resume -->
 
-[Download my résumé](/assets/files/my_resume_test.pdf)
-This is the page for my resume. Here you can provide details about my professional experience, education, skills, and any relevant links or media.
+[Download a PDF of my résumé.](/assets/files/my_resume_test.pdf)
 
 ## Jump to...
 
 - [Professional Experience](#professional-experience)
 - [Education](#education)
 - [Skills](#skills)
-- [Portfolio](/portfolio/)
+- [Projects](/#projects/)
 
 ## Professional Experience
 
@@ -22,8 +21,6 @@ This is the page for my resume. Here you can provide details about my profession
 Self-employed
 Dates of Employment - Aug 2016 to Present
 
-Responsibilities:
-
 - Producing and editing audio content for various clients
 - Managing project timelines and client communications
 - Ensuring high-quality audio production standards
@@ -31,9 +28,7 @@ Responsibilities:
 ### Actor
 
 Self-employed
-Dates of Employment - Jan 2017 to Present
-
-Responsibilities:
+Dates of Employment - Jan 2017 to Mar 2020
 
 -
 
@@ -63,3 +58,9 @@ Communication, Collaboration, Critical Thinking, Accepts Feedback
 ### Tools & Technologies
 
 Git, Linux, Make
+
+## Projects
+
+Here's a link to my portfolio page:
+
+[Portfolio](/portfolio/)
